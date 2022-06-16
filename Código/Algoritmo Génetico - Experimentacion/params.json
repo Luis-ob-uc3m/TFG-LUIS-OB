@@ -1,0 +1,33 @@
+{
+    "Experimentos": [
+        {   
+            "Experimento": 0,
+            "Descripcion": "Experimento 0",
+            "NumeroIndividuos" : 100,
+            "PMutacion" : 0.1,
+            "tournamentSizeRate" : 0.225,
+            "Cruce" : "CruceSimple",
+            "ProbSwitchMulti": 0.063,
+            "NumeroIteraciones" : 100,
+            "IndicadoresPorIndividuo": 3,
+            "sizeBitsIndicator":4,
+            "initialBudget":10000,
+            "pricePerOperation":1000
+        },
+        {   
+            "Experimento": 1,
+            "Descripcion": "Experimento 1",
+            "NumeroIndividuos" : 100,
+            "PMutacion" : 0.1,
+            "tournamentSizeRate" : 0.225,
+            "Cruce" : "CruceSimple",
+            "ProbSwitchMulti": 0.063,
+            "NumeroIteraciones" : 100,
+            "IndicadoresPorIndividuo": 3,
+            "sizeBitsIndicator":4,
+            "initialBudget":10000,
+            "pricePerOperation":1000
+        }
+     ]
+}
+  
